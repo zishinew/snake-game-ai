@@ -1,0 +1,21 @@
+# Environments
+venv/
+.env
+env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code & Tooling
+.vscode/
+tempCodeRunnerFile.py
+
+# OS-specific files
+.DS_Store
+
+# Project specific outputs
+training_plot.png
+model/*.pth
